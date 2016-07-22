@@ -3,8 +3,7 @@
 //  URBN-Explore
 //
 //  Created by Brady on 4/15/16.
-//  Copyright © 2016 MrPaulPhan. All rights reserved.
-//
+
 
 import UIKit
 
