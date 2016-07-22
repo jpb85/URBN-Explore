@@ -2,9 +2,7 @@
 //  Rooms.swift
 //  URBN-Explore
 //
-//  Created by Paul Phan on 2/26/16.
-//  Copyright © 2016 MrPaulPhan. All rights reserved.
-//
+
 
 import Foundation
 
