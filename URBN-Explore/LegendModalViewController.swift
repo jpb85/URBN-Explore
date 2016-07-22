@@ -2,9 +2,7 @@
 //  LegendModalViewController.swift
 //  URBN-Explore
 //
-//  Created by Paul Phan on 5/15/16.
-//  Copyright © 2016 MrPaulPhan. All rights reserved.
-//
+
 
 import UIKit
 
