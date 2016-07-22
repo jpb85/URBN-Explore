@@ -2,9 +2,6 @@
 //  Constants.swift
 //  URBN-Explore
 //
-//  Created by Paul Phan on 4/18/16.
-//  Copyright © 2016 MrPaulPhan. All rights reserved.
-//
 
 import UIKit
 
