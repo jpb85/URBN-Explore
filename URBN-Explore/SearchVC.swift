@@ -2,9 +2,7 @@
 //  SearchVC.swift
 //  URBN-Explore
 //
-//  Created by Paul Phan on 2/27/16.
-//  Copyright © 2016 MrPaulPhan. All rights reserved.
-//
+
 
 import UIKit
 import WatchConnectivity
