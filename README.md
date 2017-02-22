@@ -4,12 +4,8 @@ Deployment Target 9.2
 
 #Credentials
 ### My Indoors
-Username: joepatbrady@gmail.com
-Password: zach
 
 ### Support
-Username: joepatbrady@gmail.com
-Password: Firetruck1
 
 #Running App
 1. Open Terminal and go to the project directory where "Podfile" is located. Example `cd ~/Users/MrPaulPhan/Development/Swift-URBN-Explore`
